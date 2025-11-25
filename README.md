@@ -1,4 +1,3 @@
-**# Music_Business_SQL_Analytics
 Music Listener Churn & Subscription Retention – SQL & Python Project
 This project analyzes a music streaming platform to understand listener behavior, churn risk, and subscription retention using SQL and Python (Jupyter Notebook).
 It simulates a real-world music business database with users, songs, subscriptions, and listening history, then uses 50+ SQL queries plus Python analysis to answer business questions like:
